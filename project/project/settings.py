@@ -25,9 +25,7 @@ SECRET_KEY = 'j%#^u!1ao6yt+26e4*6!+s8ky^qh00gxhc%fq%tn#jfi^i3f#v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    'http://gabrielgene.pythonanywhere.com',
-]
+ALLOWED_HOSTS = []
 
 
 # Application definition
