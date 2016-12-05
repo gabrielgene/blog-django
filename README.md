@@ -1,5 +1,9 @@
 # blog-django
-Blog made with django
-Create your venv
-install django
-run python runserver
+
+Blog made with django.
+
+Create your venv.
+
+install django.
+
+run python runserver.
